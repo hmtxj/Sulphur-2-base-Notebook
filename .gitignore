@@ -34,3 +34,6 @@ desktop.ini
 
 # Vibe sessions (local only)
 .vibeskills/
+
+# Serena
+.serena/
