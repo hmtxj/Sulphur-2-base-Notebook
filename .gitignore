@@ -1,0 +1,36 @@
+# Outputs
+outputs/
+*.mp4
+*.avi
+*.mov
+
+# Model files (use download_model.py to fetch)
+models/
+*.safetensors
+*.bin
+*.ckpt
+*.gguf
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Vibe sessions (local only)
+.vibeskills/
